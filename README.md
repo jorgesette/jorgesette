@@ -9,3 +9,8 @@
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![java](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![md](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+<p align="left">
+  <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjl5eDBvZ2o1dmxoMDB3eGpmZjZ3bmpwbnBvNWt2bmU1djBseXlmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IHkILvQZ94BxMdBHp0/giphy.gif"  alt="imagem">
+
+</p>
